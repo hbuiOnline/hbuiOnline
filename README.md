@@ -7,7 +7,7 @@
 - 💬 Connect with me on LinkedIn: https://www.linkedin.com/in/hanbui2894/
 - ⚡ Fun fact: I have fun sometimes :)
 
-## Tools :pencil2:
+## Tech I Use :pencil2:
 [<img alt="C++" width="5%" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
 [<img alt="Python" width="5%" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="HTML5" width="5%" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />](https://www.google.com/search?&q=html5)
