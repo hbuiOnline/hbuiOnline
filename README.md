@@ -1,5 +1,5 @@
 ### Hi there, I'm Han 👋
-### I Was Teaching Assitant at University of Houston and currently employed by General Motors (GM)
+### I was Teaching Assistant at University of Houston and currently employed by General Motors (GM)
 
 - 🔭 I’m currently working on several full stack web applications solving business logic
 - 🌱 I’m currently learning any tech stack for web developer
